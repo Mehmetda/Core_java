@@ -18,7 +18,7 @@ public class C04_Scanner {
 
         int yaş=scan.nextInt();
 
-        System.out.println("Girilen Bilgiler:  "+ isim.charAt(0) +" " +soyisim +", "+yaş);git init
+        System.out.println("Girilen Bilgiler:  "+ isim.charAt(0) +" " +soyisim +", "+yaş);
 
 
 
